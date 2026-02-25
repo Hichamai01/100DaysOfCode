@@ -2,9 +2,13 @@
 
 ## 🧠 What I Learned Today
 
+- `\b` helps me to erases the letter that precedes it.
 - `\n` helps me go to a new line.
 - `\t` helps me organize text like a table.
 - `\\` prints one backslash.
+- `\r` returns the cursor to the beginning of the line.
+- `\xhh` \xhh helps me represent characters using hex codes.
+
 - I can use `\"` and `\'` to write quotes inside a string.
 
 ## 💻 Code I Tried
