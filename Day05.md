@@ -1,7 +1,7 @@
 
 
 ## 📅 Date: May 13, 2026
-**Challenge Status:** Day 05 of 60 🚀
+**Challenge Status:** Day 05 of 100 🚀
 ## 📝 What I Learned Todadataday's session focused on the cocodeogic of how computers handle information behind the scenes.
 ### 1. Data vs. Code: The Engine and the Fuel
  * **Data** is the raw information being managed, such as teacher names or school records.
